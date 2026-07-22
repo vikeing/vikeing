@@ -20,8 +20,13 @@
 <a id="about-me"></a>
 
 ## 👋 About Me
+<p align="center">
+  <a href="#english">🌍 English</a> ·
+  <a href="#chinese">🇨🇳 中文</a>
+</p>
 
 ### 🌍 English
+<a id="english"></a>
 
 I’m Vikeing, a finance graduate student navigating the emerging world of Artificial Intelligence.
 
@@ -44,6 +49,7 @@ Together, they document my journey from **understanding AI** to **creating with 
 ---
 
 ### 🇨🇳 中文
+<a id="chinese"></a>
 
 嗨，我是 Vikeing 👋
 
