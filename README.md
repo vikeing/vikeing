@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#about-me">👋 About Me</a> ·
-  <a href="#ai-learning-notes">🧭 AI Learning Notes</a> ·
+  <a href="#ai-learning-notes">🧭 AI Learning </a> ·
   <a href="#vibe-coding-experiments">🛠️ Vibe Coding Experiments</a> ·
   <a href="#featured-projects">🚀 Featured Projects</a> 
 </p>
@@ -34,8 +34,8 @@ My exploration takes place through three connected paths:
 | | Exploration | What you’ll find |
 |---|---|---|
 | 🧭 | **AI Learning** | Study & thoughts on AI models and product systems |
-| 🛠️ | **Vibe Coding Experiments** | AI-powered rapid demo development |
-| 🚀 | **Featured Projects** | Production-ready AI  for real business scenarios |
+| 🛠️ | **Vibe Coding Experiments** | AI-assisted demos and rapid prototypes |
+| 🚀 | **Featured Projects** | End-to-end AI products for real business scenarios |
 
 Together, they document my journey from **understanding AI** to **creating with AI**—one note, experiment, and project at a time.
 
@@ -60,7 +60,7 @@ Together, they document my journey from **understanding AI** to **creating with 
 | | 探索板块 | 这里记录什么 |
 |---|---|---|
 | 🧭 | **AI Learning** | 对 AI 产品、模型原理与应用系统的学习和思考 |
-| 🛠️ | **Vibe Coding Experiments** | 借助 AI 快速创造产品Demo |
+| 🛠️ | **Vibe Coding Experiments** | 借助 AI 快速构建的产品 Demo 与创意原型 |
 | 🚀 | **Featured Projects** | 进入真实业务场景的完整AI产品 |
 
 它们分别记录着我的**学习、创造与实践**，也共同组成了一张仍在不断生长的 AI 探索地图。
