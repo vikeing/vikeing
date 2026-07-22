@@ -33,11 +33,11 @@ My exploration takes place through three connected paths:
 
 | | Exploration | What you’ll find |
 |---|---|---|
-| 🚀 | **Featured Projects** | Production-ready AI  for real business scenarios |
 | 🧭 | **AI Learning ** | Study & thoughts on AI models and product systems |
 | 🛠️ | **Vibe Coding Experiments** | AI-powered rapid demo development |
+| 🚀 | **Featured Projects** | Production-ready AI  for real business scenarios |
 
-Together, they document my journey from **understanding AI** to **creating with AI**—one project, note, and experiment at a time.
+Together, they document my journey from **understanding AI** to **creating with AI**—one note, experiment, and project at a time.
 
 > Learning in public, building through curiosity, and exploring what becomes possible when business thinking meets AI.
 
@@ -59,11 +59,11 @@ Together, they document my journey from **understanding AI** to **creating with 
 
 | | 探索板块 | 这里记录什么 |
 |---|---|---|
-| 🚀 | **Featured Projects** | 进入真实业务场景的完整AI产品 |
 | 🧭 | **AI Learning ** | 对 AI 产品、模型原理与应用系统的学习和思考 |
 | 🛠️ | **Vibe Coding Experiments** | 借助 AI 快速创造产品Demo |
+| 🚀 | **Featured Projects** | 进入真实业务场景的完整AI产品 |
 
-它们分别记录着我的**实践、学习与创造**，也共同组成了一张仍在不断生长的 AI 探索地图。
+它们分别记录着我的**学习、创造与实践**，也共同组成了一张仍在不断生长的 AI 探索地图。
 
 我喜欢追问复杂系统背后的简单规律，也享受把一个模糊念头慢慢变成真实作品的过程。
 
