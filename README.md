@@ -33,7 +33,7 @@ My exploration takes place through three connected paths:
 
 | | Exploration | What you’ll find |
 |---|---|---|
-| 🧭 | **AI Learning ** | Study & thoughts on AI models and product systems |
+| 🧭 | **AI Learning** | Study & thoughts on AI models and product systems |
 | 🛠️ | **Vibe Coding Experiments** | AI-powered rapid demo development |
 | 🚀 | **Featured Projects** | Production-ready AI  for real business scenarios |
 
@@ -59,7 +59,7 @@ Together, they document my journey from **understanding AI** to **creating with 
 
 | | 探索板块 | 这里记录什么 |
 |---|---|---|
-| 🧭 | **AI Learning ** | 对 AI 产品、模型原理与应用系统的学习和思考 |
+| 🧭 | **AI Learning** | 对 AI 产品、模型原理与应用系统的学习和思考 |
 | 🛠️ | **Vibe Coding Experiments** | 借助 AI 快速创造产品Demo |
 | 🚀 | **Featured Projects** | 进入真实业务场景的完整AI产品 |
 
