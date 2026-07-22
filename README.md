@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi I'm Vikeing 👋
 
-<!--
-**vikeing/vikeing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Builder | Finance Background | Exploring Human-AI Collaboration
+
 
 Here are some ideas to get you started:
 
