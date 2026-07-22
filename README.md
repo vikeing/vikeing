@@ -1,70 +1,72 @@
-## Hi I'm Vikeing 👋
-
-AI Builder | Finance Background | Exploring Human-AI Collaboration
 <div align="center">
+
+# Hi, I'm Vikeing 👋
+
+### Finance Graduate Student | AI Explorer | Learning in Public
+
+**Exploring human–AI collaboration and turning curiosity into practice.**
 
 </div>
 
 <p align="center">
-  <a href="#-english">🌍 English</a> ·
-  <a href="#-中文">🇨🇳 中文</a>
+  <a href="#about-me">👋 About Me</a> ·
+  <a href="#featured-projects">🚀 Featured Projects</a> ·
+  <a href="#ai-learning-notes">🧭 AI Learning Notes</a> ·
+  <a href="#vibe-coding-experiments">🛠️ Vibe Coding Experiments</a>
 </p>
 
 ---
 
-## 🌍 English
+<a id="about-me"></a>
 
-I’m a finance graduate student navigating the emerging world of Artificial Intelligence.
+## 👋 About Me
 
-Inspired by the possibilities of **human–AI collaboration**, I’m exploring how domain knowledge, product thinking, and AI technologies can come together to reshape the way we work, think, and create.
+### 🌍 English
 
-My long-term journey is to grow from an **AI Product Manager**, to an **AI Transformation & Productivity Consultant**, and ultimately into an **AI Builder** capable of turning ideas into useful, real-world products.
+I’m Vikeing, a finance graduate student navigating the emerging world of Artificial Intelligence.
 
-I’m especially interested in:
+Coming from a non-coding business background, I began this journey with curiosity about **human–AI collaboration**: How can AI help us think more clearly, work more effectively, and turn ideas into reality?
 
-- 🤖 AI product thinking and design
-- 🧠 Large language models and their underlying architecture
-- 🔗 AI agents and intelligent workflows
-- 🌱 Human–AI collaboration
-- 🏦 AI applications in finance and enterprise scenarios
+This GitHub is an open record of how a business student learns, experiments, and builds in the age of AI.
 
-I believe the future of AI is not only about building more powerful models—it is also about designing better ways for humans and intelligent systems to work together.
+My exploration takes place through three connected paths:
 
-> My goal is to bridge **domain knowledge, product thinking, and AI technology**, turning meaningful ideas into products that create real value.
+| | Exploration | What you’ll find |
+|---|---|---|
+| 🚀 | **Featured Projects** | Production-ready AI  for real business scenarios |
+| 🧭 | **AI Learning ** | Study & thoughts on AI models and product systems |
+| 🛠️ | **Vibe Coding Experiments** | AI-powered rapid demo development |
+
+Together, they document my journey from **understanding AI** to **creating with AI**—one project, note, and experiment at a time.
+
+> Learning in public, building through curiosity, and exploring what becomes possible when business thinking meets AI.
 
 ---
 
-## 🇨🇳 中文
+### 🇨🇳 中文
 
 嗨，我是 Vikeing 👋
 
-一名金融专业研究生，也是一位刚刚驶入 AI 海域的探索者 🌊
+一名金融专业研究生，也是一个正在驶入 AI 海域的商科生 🌊
 
-出于对人机协作未来的美好憧憬，我开始学习 AI、观察真实业务，也尝试把脑海中的奇思妙想，慢慢变成可以体验、验证和持续迭代的产品。
+没有计算机专业背景，也不是传统意义上的程序员。最初吸引我的，是对**人机协作**的好奇：AI 能不能帮助我们更好地思考、更高效地工作，也让那些停留在脑海里的想法真正发生？
 
-我期待未来的 AI 不只是一个替人完成任务的工具，而是能够参与思考、激发创造，并与人一起解决复杂问题的伙伴。
+所以，我决定一边学习、一边动手，也一边把探索过程记录下来。
 
-我正在沿着这条航线成长：
+这是一个非 Coding 背景的商科生，主动拥抱 AI 变革的成长现场。
 
-> 🚀 AI 产品经理 → 🧭 AI 企业效能顾问 → 🛠️ AI Builder
+我的探索主要沿着三个方向展开：
 
-对我来说，这不是三个相互割裂的职业标签，而是一条不断扩展的能力路径：
+| | 探索板块 | 这里记录什么 |
+|---|---|---|
+| 🚀 | **Featured Projects** | 进入真实业务场景的完整AI产品 |
+| 🧭 | **AI Learning ** | 对 AI 产品、模型原理与应用系统的学习和思考 |
+| 🛠️ | **Vibe Coding Experiments** | 借助 AI 快速创造产品Demo |
 
-- 从真实场景中发现值得解决的问题
-- 用产品思维设计人与 AI 的协作方式
-- 将 AI 融入企业工作流，创造可验证的价值
-- 最终具备独立构建和迭代 AI 产品的能力
+它们分别记录着我的**实践、学习与创造**，也共同组成了一张仍在不断生长的 AI 探索地图。
 
-目前，我正在探索：
+我喜欢追问复杂系统背后的简单规律，也享受把一个模糊念头慢慢变成真实作品的过程。
 
-- 🤖 AI 产品思维与产品设计
-- 🧠 Transformer 与大语言模型原理
-- 🔗 Agent、Skill 与智能工作流
-- 🌱 人机协作的新可能
-- 🏦 AI 在金融与企业场景中的应用
-
-我喜欢追问复杂系统背后的简单规律，也享受把一个模糊灵感逐渐打磨成真实产品的过程。
-
-> 希望自己最终能够成为一名连接业务与技术、想法与现实、人类创造力与 AI 能力的构建者。
+> 不急着给自己贴上标签，先认真学习、大胆尝试，并留下每一次探索的航迹。✨
 
 🌊 **正在 AI 时代学习、构建与航行——每一次迭代都算数。**
