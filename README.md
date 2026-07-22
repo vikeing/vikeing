@@ -10,9 +10,10 @@
 
 <p align="center">
   <a href="#about-me">👋 About Me</a> ·
-  <a href="#featured-projects">🚀 Featured Projects</a> ·
+  
   <a href="#ai-learning-notes">🧭 AI Learning Notes</a> ·
-  <a href="#vibe-coding-experiments">🛠️ Vibe Coding Experiments</a>
+  <a href="#vibe-coding-experiments">🛠️ Vibe Coding Experiments</a> ·
+  <a href="#featured-projects">🚀 Featured Projects</a> 
 </p>
 
 ---
