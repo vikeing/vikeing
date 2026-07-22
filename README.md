@@ -25,8 +25,8 @@
   <a href="#chinese">🇨🇳 中文</a>
 </p>
 
-### 🌍 English
 <a id="english"></a>
+### 🌍 English
 
 I’m Vikeing, a finance graduate student navigating the emerging world of Artificial Intelligence.
 
@@ -48,8 +48,8 @@ Together, they document my journey from **understanding AI** to **creating with 
 
 ---
 
-### 🇨🇳 中文
 <a id="chinese"></a>
+### 🇨🇳 中文
 
 嗨，我是 Vikeing 👋
 
