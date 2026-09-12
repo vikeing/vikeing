@@ -2,224 +2,160 @@
 
 # Hi, I'm Vikeing 👋
 
-### Finance Graduate Student | AI Explorer | Learning in Public
+### Financial AI Product Builder
 
-**Exploring human–AI collaboration and turning curiosity into practice.**
+**Building intelligent and controllable decision systems across the transaction funnel — from search and recommendation to payment and risk.**
+
+**金融支付 × 智能决策 × 搜索增长**
 
 </div>
 
 <p align="center">
-  <a href="#about-me">👋 About Me</a> ·
-  <a href="#ai-learning-notes">🧭 AI Learning </a> ·
-  <a href="#vibe-coding-experiments">🛠️ Vibe Coding Experiments</a> ·
-  <a href="#featured-projects">🚀 Featured Projects</a> 
+  <a href="#about">About</a> ·
+  <a href="#what-i-build">What I Build</a> ·
+  <a href="#transaction-intelligence">Transaction Intelligence</a> ·
+  <a href="#selected-work">Selected Work</a> ·
+  <a href="#notes">Notes</a> ·
+  <a href="#now">Now</a>
 </p>
 
 ---
 
-<a id="about-me"></a>
+<a id="about"></a>
 
-## 👋 About Me
-<p align="center">
-  <a href="#english">🌍 English</a> ·
-  <a href="#chinese">🇨🇳 中文</a>
-</p>
+## About
 
-<a id="english"></a>
-### 🌍 English
+I am a finance graduate student with hands-on experience across **KYC/KYB, risk and compliance, and payment product delivery**.
 
-I’m Vikeing, a finance graduate student navigating the emerging world of Artificial Intelligence.
+I build and study product systems at the intersection of **financial services, artificial intelligence, and human decision-making**. My core question is:
 
-Coming from a non-coding business background, I began this journey with curiosity about **human–AI collaboration**: How can AI help us think more clearly, work more effectively, and turn ideas into reality?
+> How should AI, deterministic rules, and human judgment work together in high-stakes financial workflows?
 
-This GitHub is an open record of how a business student learns, experiments, and builds in the age of AI.
+我是一名金融专业研究生，实践经历覆盖 **KYC/KYB、合规风控与支付产品交付**。我关注的不只是“AI 能做什么”，更关注如何把 AI 放进真实金融业务：哪些判断交给确定性规则，哪些信息交给模型处理，哪些高风险结果必须由人接管。
 
-My exploration takes place through three connected paths:
-
-| | Exploration | What you’ll find |
-|---|---|---|
-| 🧭 | **AI Learning** | Study & thoughts on AI models and product systems |
-| 🛠️ | **Vibe Coding Experiments** | AI-assisted demos and rapid prototypes |
-| 🚀 | **Featured Projects** | End-to-end AI products for real business scenarios |
-
-Together, they document my journey from **understanding AI** to **creating with AI**—one note, experiment, and project at a time.
-
-> Learning in public, building through curiosity, and exploring what becomes possible when business thinking meets AI.
+My long-term direction is **Financial AI Product Management**, with a focus on cross-border payments and transferable product capabilities in intelligent decisioning, search, recommendation, growth, and evaluation.
 
 ---
 
-<a id="chinese"></a>
-### 🇨🇳 中文
+<a id="what-i-build"></a>
 
-嗨，我是 Vikeing 👋
+## What I Build
 
-一名金融专业研究生，也是一个正在驶入 AI 海域的商科生 🌊
+| Focus | What I care about |
+|---|---|
+| **Payment & Financial Systems** | Cross-border payments, product and channel access, payment strategies, KYC/KYB, and risk workflows |
+| **Intelligent Decisioning** | AI + deterministic rules + human review, with controllable boundaries, evidence, fallback, and auditability |
+| **Search, Recommendation & Growth** | Intent understanding, product matching, ranking, experimentation, and conversion optimization |
 
-没有计算机专业背景，也不是传统意义上的程序员。最初吸引我的，是对**人机协作**的好奇：AI 能不能帮助我们更好地思考、更高效地工作，也让那些停留在脑海里的想法真正发生？
+These are not separate interests. They form one product system around the transaction journey:
 
-所以，我决定一边学习、一边动手，也一边把探索过程记录下来。
-
-这是一个非 Coding 背景的商科生，主动拥抱 AI 变革的成长现场。
-
-我的探索主要沿着三个方向展开：
-
-| | 探索板块 | 这里记录什么 |
-|---|---|---|
-| 🧭 | **AI Learning** | 对 AI 产品、模型原理与应用系统的学习和思考 |
-| 🛠️ | **Vibe Coding Experiments** | 借助 AI 快速构建的产品 Demo 与创意原型 |
-| 🚀 | **Featured Projects** | 进入真实业务场景的完整AI产品 |
-
-它们分别记录着我的**学习、创造与实践**，也共同组成了一张仍在不断生长的 AI 探索地图。
-
-我喜欢追问复杂系统背后的简单规律，也享受把一个模糊念头慢慢变成真实作品的过程。
-
-> 不急着给自己贴上标签，先认真学习、大胆尝试，并留下每一次探索的航迹。✨
-
-🌊 **正在 AI 时代学习、构建与航行——每一次迭代都算数。**
+> **Understand demand → Match the right product → Complete the payment → Control risk → Learn from outcomes**
 
 ---
 
-<a id="ai-learning-notes"></a>
+<a id="transaction-intelligence"></a>
 
-## 🧭 AI Learning 
+## Transaction Intelligence
 
-I am building a practical learning map to understand how AI products move from **model capabilities** to **real-world value**.
+| Transaction stage | Product capability | Current evidence |
+|---|---|---|
+| **Discover** | Search, recommendation, and growth | Financial product discovery case in planning |
+| **Match** | Intent, eligibility, filtering, and ranking | Product and channel access rules |
+| **Pay** | Payment solution design and routing strategy | BIN × scenario recommendation case |
+| **Control** | Screening, onboarding, and payment risk decisions | KYC/KYB and compliance workflow experience |
+| **Learn** | Metrics, evaluation, experiments, and feedback loops | Evaluation frameworks under development |
 
-我正在建立一张面向 AI 产品实践的学习地图，尝试理解一个 AI 产品如何从**模型能力**走向**真实价值**。
+The goal is not to collect disconnected AI features. It is to understand how intelligent systems can help users find suitable products, complete transactions, and manage risk responsibly.
+
+---
+
+<a id="selected-work"></a>
+
+## Selected Work
+
+### Product Resume Grower
+
+**Shipped · Open Source**
+
+An evidence-first, modular system that turns PRDs, prototypes, work samples, and project notes into traceable career evidence before tailoring a one-page resume to a target role.
+
+一套面向产品实习求职的证据型 Skill：先建立可核验的项目证据卡，再根据目标 JD 组合通用产品、AI、风控与支付模块。
+
+**What it demonstrates:** agent product design, evidence systems, structured workflows, human–AI collaboration, and iterative product delivery.
+
+[Product Page](https://vikeing.github.io/product-resume-grower/) · [Source](https://github.com/vikeing/product-resume-grower) · [Download](https://vikeing.github.io/product-resume-grower/downloads/product-resume-grower-v1.0.0.zip)
+
+> Resumes are not isolated documents. They are views generated from a growing career evidence bank.
+
+### Financial AI Case Studies
+
+The following projects are being reconstructed as public, de-identified case studies. Only projects that meet the evidence standard will be promoted to Featured Work.
+
+| Project | Status | What it will demonstrate |
+|---|---|---|
+| **AI Risk & Compliance Assistant** | Prototype · Building | KYB access, country risk, AI extraction, rule-based decisions, human review, and audit trails |
+| **Payment BIN Recommendation & Traffic Governance** | Case Study · Building | Payment metrics, BIN × scenario ranking, cold start, exploration, state machines, and recovery |
+| **Payment Risk Workflows** | Case Study · Planned | Cardholder screening, document collection, payment review, exception handling, and product delivery |
+| **Financial Product Discovery & Growth** | Product Study · Planned | Intent understanding, recall and ranking, eligibility filters, conversion, experiments, and financial guardrails |
+
+**Evidence boundary:** internship deliverables, personal extensions, prototypes, and synthetic data will be labeled separately. A prototype will never be presented as a production result.
+
+---
+
+<a id="notes"></a>
+
+## Notes & Writing
+
+My complete working notes are developed in Feishu. Selected pieces will be published here in Markdown when they are connected to a project, decision framework, failure case, or evaluation plan.
+
+我的完整思考仍会在飞书持续生长；GitHub 只公开能够与项目证据相互验证的精选内容。
+
+| Collection | Questions I am exploring |
+|---|---|
+| **Financial AI Systems** | How should models, rules, tools, and people divide responsibility? |
+| **Payments & Risk** | How do onboarding, screening, routing, and payment outcomes form a controllable system? |
+| **Search, Recommendation & Growth** | How should financial products be retrieved, filtered, ranked, and evaluated? |
+| **Evaluation & Experimentation** | How do we measure quality, risk, cost, latency, conversion, and failure? |
+
+### Principles
+
+- Start from the business problem, not the model.
+- Give deterministic decisions to code; contain uncertainty with evidence, thresholds, and human review.
+- Treat failure cases, fallback, and auditability as product requirements.
+- Separate production evidence, internship work, personal extensions, and synthetic experiments.
+- Use metrics and experiments to turn product assumptions into testable hypotheses.
+
+---
+
+<a id="now"></a>
+
+## Current Focus · Sep–Oct 2026
+
+- Reconstructing the **AI Risk & Compliance Assistant** as a public Financial AI case study.
+- Refining the **Payment BIN Recommendation** project through a recommendation and decision-system lens.
+- Designing a **Financial Product Discovery & Growth** MVP connecting search, ranking, conversion, payment, and risk.
+- Publishing selected notes on human–AI collaboration, evaluation, and financial decision boundaries.
+
+---
+
+## Experience & Toolkit
+
+- **Domain:** cross-border payments, KYC/KYB, compliance risk, payment strategy
+- **Data & Experimentation:** SQL, Excel, Power BI, SPSS
+- **Product Design & Delivery:** Figma, 墨刀, HTML prototypes, PRD, Meegle
+- **AI Product:** structured outputs, workflow design, evaluation, guardrails, human-in-the-loop
+- **Language & Credentials:** CET-6, CFA Level I passed
+
+---
+
+## Connect
+
+I am open to conversations about **Financial AI, payments, intelligent decisioning, and human–AI collaboration**.
+
+Follow the project roadmap here on GitHub. Resume and public case-study links will be added as they meet the evidence standard.
 
 <div align="center">
 
-**Understand → Design → Build → Evaluate**
-
-**理解能力 → 设计协作 → 搭建系统 → 评估效果**
+**Build from evidence. Design for uncertainty. Learn through iteration.**
 
 </div>
-
----
-
-### 01 · 🧠 AI Foundations｜AI 基础认知
-
-Understanding what large language models can—and cannot—do.
-
-首先理解大模型能做什么、不能做什么，以及使用它所需要付出的代价。
-
-**Topics｜学习主题：**
-
-`Generation` · `Summarization` · `Classification` · `Retrieval` · `Reasoning` · `Multimodality` · `Agents`
-
-`Hallucination` · `Context Window` · `Cost` · `Latency` · `Privacy`
-
-> The goal is not to train a model, but to judge whether a problem should be solved with AI.
->
-> 目标不是学会训练模型，而是能够判断：**这个需求究竟该不该使用 AI？**
-
----
-
-### 02 · ✍️ Prompt & Workflow Design｜Prompt 与工作流设计
-
-Learning to turn ambiguous tasks into clear instructions, structured inputs, expected outputs, constraints, examples, and failure-handling strategies.
-
-学习将模糊任务拆解为清晰的指令、输入信息、输出格式、约束条件、参考示例与失败处理方式。
-
-More importantly, I am learning to define **success criteria and testing methods** before optimizing a prompt.
-
-比“写出一个看起来不错的 Prompt”更重要的是，在调试前先定义成功标准与测试方法。
-
-**Topics｜学习主题：**
-
-`Task Decomposition` · `Context Design` · `Output Format` · `Few-shot Examples` · `Guardrails` · `Failure Handling`
-
-**Reference｜参考资料：**  
-[🟠 Anthropic — Prompt Engineering Overview](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)
-
----
-
-### 03 · 🏗️ AI Product Architecture｜AI 产品架构入门
-
-Understanding the building blocks behind AI products and how models connect with external knowledge, tools, data, and actions.
-
-理解 AI 产品背后的基本组件，以及模型如何连接外部知识、工具、数据与真实操作。
-
-**Topics｜学习主题：**
-
-`RAG` · `Embeddings` · `Function Calling` · `Tool Calling` · `Structured Outputs` · `Agents` · `MCP` · `Model Routing`
-
-My focus is not only on remembering technical terms, but on understanding what role each component plays in an AI product.
-
-我希望不仅记住这些技术名词，更能理解每个组件在 AI 产品中解决什么问题、适合什么场景。
-
-**Reference｜参考资料：**  
-[🔵 OpenAI — Function Calling Guide](https://developers.openai.com/api/docs/guides/function-calling)
-
----
-
-### 04 · 📊 Evaluation｜评估能力
-
-Learning to evaluate AI products with measurable evidence instead of relying only on whether a response “feels good.”
-
-学习用可衡量的证据评估 AI 产品，而不只是凭借“回答感觉好不好”作出判断。
-
-**Evaluation Dimensions｜评估维度：**
-
-`Accuracy` · `Recall` · `Hallucination Rate` · `Task Completion Rate` · `Human Satisfaction` · `Cost` · `Latency` · `Safety Failure Rate`
-
-The aim is to gradually build an evaluation loop:
-
-希望逐渐建立一套完整的评估闭环：
-
-> **Define success → Build test cases → Run evaluations → Analyze failures → Improve the product**
->
-> **定义成功 → 构建测试集 → 执行评估 → 分析失败 → 迭代产品**
-
-**Reference｜参考资料：**  
-[🔵 OpenAI — Working with Evals](https://developers.openai.com/api/docs/guides/evals)
-
----
-
-### 📚 My Knowledge Base｜我的知识库
-
-My complete learning notes, concept breakdowns, case studies, and reflections are organized in my Feishu knowledge base.
-
-我的完整学习笔记、概念拆解、产品案例与阶段性思考，将持续整理在飞书知识库中。
-
-[📖 Explore My AI Knowledge Base｜进入我的 AI 学习知识库 →](YOUR_FEISHU_WIKI_LINK)
-
----
-
-### 🌱 Open-source Learning Resource｜开源学习资源
-
-#### 🧱 [AIPM-Wiki](https://github.com/archlizheng/AIPM-Wiki)
-
-An open-source AI Product Manager knowledge base covering learning roadmaps, AI fundamentals, product skills, case studies, and interview preparation.
-
-一个涵盖学习路线、AI 基础知识、产品技能、案例拆解与面试准备的开源 AI 产品经理知识库。
-
-I use it as a structured reference while gradually building my own understanding and learning system.
-
-我会将它作为结构化学习参考，并在学习、实践与复盘中逐渐形成自己的理解体系。
-
----
-
-> This learning map is not a list of skills I have already mastered. It is a living record of what I am currently learning, testing, and trying to understand.
->
-> 这不是一份“我已经全部掌握”的技能清单，而是一张会随着学习、实践与思考持续生长的探索地图。🌱
-
----
-
-<a id="featured-projects"></a>
-
-## 🚀 Featured Projects｜代表项目
-
-### 🌱 Product Resume Grower｜产品简历增长器
-
-An evidence-first, modular resume system for product internships—turning PRDs, prototypes, work samples, and project notes into traceable career evidence before tailoring them to a JD.
-
-一套面向产品实习求职的可迭代 Skill：先通过“问题—边界—判断—落地—证据”建立项目证据卡，再按目标 JD 组合通用产品、AI、风控与支付模块，生成可信的一页简历。
-
-`Agent Skill` · `Product Design` · `Evidence System` · `AI PM` · `Risk & Payment`
-
-[🌐 Product Page｜产品介绍页](https://vikeing.github.io/product-resume-grower/) · [💻 Source｜查看源码](https://github.com/vikeing/product-resume-grower) · [⬇️ Download｜下载 Skill](https://vikeing.github.io/product-resume-grower/downloads/product-resume-grower-v1.0.0.zip)
-
-> Built around a simple principle: resumes are not isolated documents—they are views generated from a growing career evidence bank.
->
-> 简历不是一次性文案，而是职业证据库在特定岗位下的一次视图生成。
