@@ -2,160 +2,158 @@
 
 # Hi, I'm Vikeing 👋
 
-### Financial AI Product Builder
+### 金融科技与 AI 产品构建者｜Financial AI Product Builder
 
-**Building intelligent and controllable decision systems across the transaction funnel — from search and recommendation to payment and risk.**
+**围绕“发现—匹配—支付—风控—反馈”，构建可控、可评估、可审计的智能决策产品。**
 
 **金融支付 × 智能决策 × 搜索增长**
+
+<p>
+  <b>中文</b> · <a href="./README_EN.md">English</a>
+</p>
 
 </div>
 
 <p align="center">
-  <a href="#about">About</a> ·
-  <a href="#what-i-build">What I Build</a> ·
-  <a href="#transaction-intelligence">Transaction Intelligence</a> ·
-  <a href="#selected-work">Selected Work</a> ·
-  <a href="#notes">Notes</a> ·
-  <a href="#now">Now</a>
+  <a href="#关于我">关于我</a> ·
+  <a href="#我在构建什么">能力框架</a> ·
+  <a href="#交易智能">交易智能</a> ·
+  <a href="#代表项目">代表项目</a> ·
+  <a href="#思考与写作">思考与写作</a> ·
+  <a href="#当前进展">当前进展</a>
 </p>
 
 ---
 
-<a id="about"></a>
+<a id="关于我"></a>
 
-## About
+## 关于我
 
-I am a finance graduate student with hands-on experience across **KYC/KYB, risk and compliance, and payment product delivery**.
+我是一名金融专业研究生，实践经历覆盖 **KYC/KYB、合规风控与支付产品交付**。
 
-I build and study product systems at the intersection of **financial services, artificial intelligence, and human decision-making**. My core question is:
+我从合规一线进入支付产品，持续关注金融服务、人工智能与人类决策的交叉地带。相比单纯追求“让 AI 完成更多任务”，我更关心一个高风险金融系统应该如何分工：
 
-> How should AI, deterministic rules, and human judgment work together in high-stakes financial workflows?
+> 哪些判断交给确定性规则，哪些信息交给模型处理，哪些高风险和低置信度结果必须由人接管？
 
-我是一名金融专业研究生，实践经历覆盖 **KYC/KYB、合规风控与支付产品交付**。我关注的不只是“AI 能做什么”，更关注如何把 AI 放进真实金融业务：哪些判断交给确定性规则，哪些信息交给模型处理，哪些高风险结果必须由人接管。
-
-My long-term direction is **Financial AI Product Management**, with a focus on cross-border payments and transferable product capabilities in intelligent decisioning, search, recommendation, growth, and evaluation.
+我的长期方向是 **Financial AI 产品经理**：以跨境支付和金融风控为业务纵深，同时建立可迁移的智能决策、搜索推荐、增长实验与 AI 产品化能力。
 
 ---
 
-<a id="what-i-build"></a>
+<a id="我在构建什么"></a>
 
-## What I Build
+## 我在构建什么
 
-| Focus | What I care about |
+| 能力方向 | 我关注的问题 |
 |---|---|
-| **Payment & Financial Systems** | Cross-border payments, product and channel access, payment strategies, KYC/KYB, and risk workflows |
-| **Intelligent Decisioning** | AI + deterministic rules + human review, with controllable boundaries, evidence, fallback, and auditability |
-| **Search, Recommendation & Growth** | Intent understanding, product matching, ranking, experimentation, and conversion optimization |
+| **金融与支付系统** | 跨境收付、产品与渠道准入、支付策略、KYC/KYB 与风险工作流 |
+| **智能决策系统** | AI、确定性规则与人工复核如何分工，并建立证据、降级、熔断与审计机制 |
+| **搜索推荐与增长** | 如何理解用户意图、匹配和排序产品，并通过指标与实验优化转化 |
 
-These are not separate interests. They form one product system around the transaction journey:
+这三部分不是彼此独立的兴趣，而是共同服务于一条完整交易链路：
 
-> **Understand demand → Match the right product → Complete the payment → Control risk → Learn from outcomes**
+> **理解需求 → 匹配产品 → 完成支付 → 控制风险 → 从结果中持续学习**
 
 ---
 
-<a id="transaction-intelligence"></a>
+<a id="交易智能"></a>
 
-## Transaction Intelligence
+## 交易智能
 
-| Transaction stage | Product capability | Current evidence |
+| 交易阶段 | 产品能力 | 当前证据 |
 |---|---|---|
-| **Discover** | Search, recommendation, and growth | Financial product discovery case in planning |
-| **Match** | Intent, eligibility, filtering, and ranking | Product and channel access rules |
-| **Pay** | Payment solution design and routing strategy | BIN × scenario recommendation case |
-| **Control** | Screening, onboarding, and payment risk decisions | KYC/KYB and compliance workflow experience |
-| **Learn** | Metrics, evaluation, experiments, and feedback loops | Evaluation frameworks under development |
+| **发现 Discover** | 搜索、推荐与增长 | 金融产品发现与增长案例规划中 |
+| **匹配 Match** | 意图识别、资格校验、过滤与排序 | 产品及渠道准入规则 |
+| **支付 Pay** | 支付方案设计与路由策略 | BIN × 场景推荐案例 |
+| **控制 Control** | 名单筛查、客户准入与付款风险决策 | KYC/KYB 与合规工作流经验 |
+| **学习 Learn** | 指标、评估、实验与反馈闭环 | 评估框架持续完善中 |
 
-The goal is not to collect disconnected AI features. It is to understand how intelligent systems can help users find suitable products, complete transactions, and manage risk responsibly.
+我的目标不是堆叠彼此割裂的 AI 功能，而是理解智能系统如何帮助用户找到合适的产品、完成交易，并以负责任的方式控制风险。
 
 ---
 
-<a id="selected-work"></a>
+<a id="代表项目"></a>
 
-## Selected Work
+## 代表项目
 
-### Product Resume Grower
+### Product Resume Grower｜产品简历增长器
 
-**Shipped · Open Source**
+**已发布 · 开源项目**
 
-An evidence-first, modular system that turns PRDs, prototypes, work samples, and project notes into traceable career evidence before tailoring a one-page resume to a target role.
+一套面向产品实习求职的证据型系统：将 PRD、交互原型、工作样本和项目笔记整理为可追溯的职业证据，再根据目标 JD 生成一页简历。
 
-一套面向产品实习求职的证据型 Skill：先建立可核验的项目证据卡，再根据目标 JD 组合通用产品、AI、风控与支付模块。
+**核心能力：** Agent 产品设计、证据系统、结构化工作流、人机协作与持续迭代。
 
-**What it demonstrates:** agent product design, evidence systems, structured workflows, human–AI collaboration, and iterative product delivery.
+[产品介绍页](https://vikeing.github.io/product-resume-grower/) · [查看源码](https://github.com/vikeing/product-resume-grower) · [下载 Skill](https://vikeing.github.io/product-resume-grower/downloads/product-resume-grower-v1.0.0.zip)
 
-[Product Page](https://vikeing.github.io/product-resume-grower/) · [Source](https://github.com/vikeing/product-resume-grower) · [Download](https://vikeing.github.io/product-resume-grower/downloads/product-resume-grower-v1.0.0.zip)
+> 简历不是一次性文案，而是职业证据库在特定岗位下生成的一次视图。
 
-> Resumes are not isolated documents. They are views generated from a growing career evidence bank.
+### Financial AI 项目路线
 
-### Financial AI Case Studies
+以下项目正在被重构为公开、脱敏、可独立阅读的案例。只有达到证据标准的项目，才会正式进入代表项目区。
 
-The following projects are being reconstructed as public, de-identified case studies. Only projects that meet the evidence standard will be promoted to Featured Work.
-
-| Project | Status | What it will demonstrate |
+| 项目 | 状态 | 计划证明的能力 |
 |---|---|---|
-| **AI Risk & Compliance Assistant** | Prototype · Building | KYB access, country risk, AI extraction, rule-based decisions, human review, and audit trails |
-| **Payment BIN Recommendation & Traffic Governance** | Case Study · Building | Payment metrics, BIN × scenario ranking, cold start, exploration, state machines, and recovery |
-| **Payment Risk Workflows** | Case Study · Planned | Cardholder screening, document collection, payment review, exception handling, and product delivery |
-| **Financial Product Discovery & Growth** | Product Study · Planned | Intent understanding, recall and ranking, eligibility filters, conversion, experiments, and financial guardrails |
+| **AI 合规风控助手** | Prototype · 完善中 | KYB 准入、国别风险、AI 事实提取、规则裁决、人工复核与审计链路 |
+| **BIN 支付推荐与动态流量治理** | Case Study · 完善中 | 支付指标、BIN × 场景排序、冷启动、探索机制、状态机与恢复策略 |
+| **支付风险工作流案例集** | Case Study · 规划中 | 持卡人筛查、补件任务、付款审核、异常分支与产品交付 |
+| **金融产品发现与增长** | Product Study · 规划中 | 意图理解、召回与排序、资格过滤、转化实验与金融风险护栏 |
 
-**Evidence boundary:** internship deliverables, personal extensions, prototypes, and synthetic data will be labeled separately. A prototype will never be presented as a production result.
+**证据边界：** 实习期交付、离职后个人延展、交互原型和模拟数据将分别标注；Prototype 不会被描述为生产系统或线上业务成果。
 
 ---
 
-<a id="notes"></a>
+<a id="思考与写作"></a>
 
-## Notes & Writing
+## 思考与写作
 
-My complete working notes are developed in Feishu. Selected pieces will be published here in Markdown when they are connected to a project, decision framework, failure case, or evaluation plan.
+完整的工作笔记与思考在飞书中持续沉淀；当一篇内容能够与具体项目、产品判断、失败案例或评估方案相互验证时，我会将其整理为 Markdown 在 GitHub 公开。
 
-我的完整思考仍会在飞书持续生长；GitHub 只公开能够与项目证据相互验证的精选内容。
-
-| Collection | Questions I am exploring |
+| 内容专栏 | 我正在研究的问题 |
 |---|---|
-| **Financial AI Systems** | How should models, rules, tools, and people divide responsibility? |
-| **Payments & Risk** | How do onboarding, screening, routing, and payment outcomes form a controllable system? |
-| **Search, Recommendation & Growth** | How should financial products be retrieved, filtered, ranked, and evaluated? |
-| **Evaluation & Experimentation** | How do we measure quality, risk, cost, latency, conversion, and failure? |
+| **Financial AI Systems** | 模型、规则、工具与人应该如何划分责任？ |
+| **Payments & Risk** | 准入、筛查、路由和支付结果如何形成可控系统？ |
+| **Search, Recommendation & Growth** | 金融产品应该如何被召回、过滤、排序与评估？ |
+| **Evaluation & Experimentation** | 如何同时衡量质量、风险、成本、时延、转化与失败？ |
 
-### Principles
+### 产品原则
 
-- Start from the business problem, not the model.
-- Give deterministic decisions to code; contain uncertainty with evidence, thresholds, and human review.
-- Treat failure cases, fallback, and auditability as product requirements.
-- Separate production evidence, internship work, personal extensions, and synthetic experiments.
-- Use metrics and experiments to turn product assumptions into testable hypotheses.
-
----
-
-<a id="now"></a>
-
-## Current Focus · Sep–Oct 2026
-
-- Reconstructing the **AI Risk & Compliance Assistant** as a public Financial AI case study.
-- Refining the **Payment BIN Recommendation** project through a recommendation and decision-system lens.
-- Designing a **Financial Product Discovery & Growth** MVP connecting search, ranking, conversion, payment, and risk.
-- Publishing selected notes on human–AI collaboration, evaluation, and financial decision boundaries.
+- 从业务问题出发，而不是从模型能力出发。
+- 确定性给代码，不确定性关进证据、阈值和人工复核组成的笼子。
+- 将失败案例、降级方案、熔断机制和可审计性作为产品需求。
+- 明确区分真实业务交付、个人延展、Prototype 与模拟实验。
+- 用指标与实验，将产品假设转化为可验证的问题。
 
 ---
 
-## Experience & Toolkit
+<a id="当前进展"></a>
 
-- **Domain:** cross-border payments, KYC/KYB, compliance risk, payment strategy
-- **Data & Experimentation:** SQL, Excel, Power BI, SPSS
-- **Product Design & Delivery:** Figma, 墨刀, HTML prototypes, PRD, Meegle
-- **AI Product:** structured outputs, workflow design, evaluation, guardrails, human-in-the-loop
-- **Language & Credentials:** CET-6, CFA Level I passed
+## 当前进展｜2026.09–10
+
+- 将 **AI 合规风控助手**重构为公开的 Financial AI 核心案例。
+- 从推荐与智能决策视角完善 **BIN 支付推荐**项目。
+- 设计连接搜索、排序、转化、支付和风控的 **金融产品发现与增长 MVP**。
+- 持续发布关于人机协作、金融决策边界与评估体系的精选文章。
 
 ---
 
-## Connect
+## 经历与工具
 
-I am open to conversations about **Financial AI, payments, intelligent decisioning, and human–AI collaboration**.
+- **业务领域：** 跨境支付｜KYC/KYB｜合规风控｜支付策略
+- **数据与实验：** SQL｜Excel｜Power BI｜SPSS
+- **产品设计与交付：** Figma｜墨刀｜HTML 交互原型｜PRD｜Meegle
+- **AI 产品：** 结构化输出｜工作流设计｜评估体系｜风险护栏｜Human-in-the-loop
+- **语言与资质：** CET-6｜CFA 一级考试通过
 
-Follow the project roadmap here on GitHub. Resume and public case-study links will be added as they meet the evidence standard.
+---
+
+## 联系我
+
+欢迎交流 **Financial AI、金融支付、智能决策与人机协作**。
+
+简历与公开案例链接将在达到证据标准后陆续补充至本主页。
 
 <div align="center">
 
-**Build from evidence. Design for uncertainty. Learn through iteration.**
+**基于证据构建，为不确定性设计，在持续迭代中成长。**
 
 </div>
